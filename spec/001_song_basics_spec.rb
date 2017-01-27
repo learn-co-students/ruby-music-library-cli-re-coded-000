@@ -3,7 +3,7 @@ require 'spec_helper'
 describe "Song Basics" do
   describe '#initialize with #name' do
     it 'accepts a name for the song' do
-      song = Song.new("In an Aeroplane Over the Sea")
+      song = Song.new( "In an Aeroplane Over the Sea")
       expect(song.name).to eq("In an Aeroplane Over the Sea")
     end
   end
