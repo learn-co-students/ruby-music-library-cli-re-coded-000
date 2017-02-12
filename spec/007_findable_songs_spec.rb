@@ -15,7 +15,11 @@ describe 'Findable Songs' do
 
       expect(song_1).to be_a(Song)
       expect(song_1).to eq(song_2)
+<<<<<<< HEAD
       expect(song_1.name).to eq("In an Aeroplane Over the Sea")
+=======
+      expect(song_1).not_to eq(nil)
+>>>>>>> solution
     end
   end
 end
