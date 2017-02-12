@@ -3,6 +3,7 @@ class MusicLibraryController
   def initialize(path = "./db/mp3s")
     importer = MusicImporter.new(path)
     importer.import
+    # binding.pry
   end
 
   def call
@@ -63,12 +64,14 @@ class MusicLibraryController
   def play_song
     puts "What song number would you like to play?"
     song_input = gets.strip
-    puts "Playing #{Song.all[song_input.to_i-1]}"
+    puts "Playing #{Song.all.sort{|a,b| [a.artist.name,a.name] <=> [b.artist.name,b.name] }[song_input.to_i-1]}"
   end
 
   def songs
-    Song.all.each.with_index(1) do |s, i|
+    # binding.pry
+    Song.all.sort{|a,b| [a.artist.name,a.name] <=> [b.artist.name,b.name] }.each.with_index(1) do |s, i|
       puts "#{i}. #{s}"
     end
+
   end
 end

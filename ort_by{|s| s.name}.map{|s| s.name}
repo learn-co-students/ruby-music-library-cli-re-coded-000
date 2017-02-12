@@ -1,0 +1,44 @@
+=> [[32m#<Song:0x000000015291e8[0m
+  @artist[32m=[0m
+   [32m#<Artist:0x00000001582c70[0m
+    @name[32m=[0m[31m[1;31m"[0m[31mBeyonce[1;31m"[0m[31m[0m,
+    @songs[32m=[0m
+     [[32m#<Song:0x00000001582ab8[0m
+       @artist[32m=[0m[32m#<Artist:0x00000001582c70[0m ...[32m>[0m,
+       @genre[32m=[0m
+        [32m#<Genre:0x00000001583148[0m
+         @name[32m=[0m[31m[1;31m"[0m[31mpop[1;31m"[0m[31m[0m,
+         @songs[32m=[0m
+          [[32m#<Song:0x000000015830d0[0m
+            @artist[32m=[0m[32m#<Artist:0x00000001583238[0m @name[32m=[0m[31m[1;31m"[0m[31mAtlas Sound[1;31m"[0m[31m[0m, @songs[32m=[0m[[32m#<Song:0x000000015830d0[0m ...[32m>[0m][32m>[0m,
+            @genre[32m=[0m[32m#<Genre:0x00000001583148[0m ...[32m>[0m,
+            @name[32m=[0m[31m[1;31m"[0m[31mMona Lisa[1;31m"[0m[31m[0m[32m>[0m,
+           [32m#<Song:0x00000001582ab8[0m ...[32m>[0m,
+           [32m#<Song:0x00000001576f60[0m
+            @artist[32m=[0m[32m#<Artist:0x000000015770c8[0m @name[32m=[0m[31m[1;31m"[0m[31mBritney Spears[1;31m"[0m[31m[0m, @songs[32m=[0m[[32m#<Song:0x00000001576f60[0m ...[32m>[0m][32m>[0m,
+            @genre[32m=[0m[32m#<Genre:0x00000001583148[0m ...[32m>[0m,
+            @name[32m=[0m[31m[1;31m"[0m[31mTill the World Ends (The Femme Fatale Remix) (feat.Kesha & Nicki Minaj)[1;31m"[0m[31m[0m[32m>[0m,
+           [32m#<Song:0x00000001561de0[0m
+            @artist[32m=[0m[32m#<Artist:0x00000001561f48[0m @name[32m=[0m[31m[1;31m"[0m[31mSandro Perri[1;31m"[0m[31m[0m, @songs[32m=[0m[[32m#<Song:0x00000001561de0[0m ...[32m>[0m][32m>[0m,
+            @genre[32m=[0m[32m#<Genre:0x00000001583148[0m ...[32m>[0m,
+            @name[32m=[0m[31m[1;31m"[0m[31mChanges[1;31m"[0m[31m[0m[32m>[0m,
+           [32m#<Song:0x00000001560fd0[0m
+            @artist[32m=[0m[32m#<Artist:0x00000001561340[0m @name[32m=[0m[31m[1;31m"[0m[31mKaty B[1;31m"[0m[31m[0m, @songs[32m=[0m[[32m#<Song:0x00000001560fd0[0m ...[32m>[0m][32m>[0m,
+            @genre[32m=[0m[32m#<Genre:0x00000001583148[0m ...[32m>[0m,
+            @name[32m=[0m[31m[1;31m"[0m[31mBroken Record[1;31m"[0m[31m[0m[32m>[0m,
+           [32m#<Song:0x0000000154e1c8[0m
+            @artist[32m=[0m[32m#<Artist:0x0000000154e308[0m @name[32m=[0m[31m[1;31m"[0m[31mJamie xx & Gill Scott-Heron[1;31m"[0m[31m[0m, @songs[32m=[0m[[32m#<Song:0x0000000154e1c8[0m ...[32m>[0m][32m>[0m,
+            @genre[32m=[0m[32m#<Genre:0x00000001583148[0m ...[32m>[0m,
+            @name[32m=[0m[31m[1;31m"[0m[31mI'll Take Care Of You[1;31m"[0m[31m[0m[32m>[0m,
+           [32m#<Song:0x0000000154ceb8[0m
+            @artist[32m=[0m
+             [32m#<Artist:0x0000000154d048[0m
+              @name[32m=[0m[31m[1;31m"[0m[31mBon Iver[1;31m"[0m[31m[0m,
+              @songs[32m=[0m
+               [[32m#<Song:0x0000000154ceb8[0m ...[32m>[0m,
+                [32m#<Song:0x00000001528130[0m
+                 @artist[32m=[0m[32m#<Artist:0x0000000154d048[0m ...[32m>[0m,
+                 @genre[32m=[0m
+                  [32m#<Genre:0x00000001583648[0m
+                   @name[32m=[0m[31m[1;31m"[0m[31mhouse[1;31m"[0m[31m[0m,
+                   @songs[32m=[0m
